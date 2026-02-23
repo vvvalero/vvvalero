@@ -16,7 +16,6 @@
 
 * Ingeniero Informático.
 * Especializado en **desarrollo de software** con un fuerte interés en **ciberseguridad ofensiva y Red Team**.
-* Contáctame en [LinkedIn](https://www.linkedin.com/in/vvalero6/) o revisa mis proyectos en mi [Portfolio](https://www.vvalero.dev/).
 
 ---
 
@@ -37,23 +36,42 @@
 
 ### Proyectos Destacados
 
+<table border="0">
+  <tr>
+    <td width="33.3%" valign="top">
+      <a href="https://github.com/vvvalero/Nevom--ComercioElectronico">
+        <img src="https://img.shields.io/badge/Nevom_E--commerce-PHP_%7C_MySQL-blue?style=for-the-badge&logo=php" width="100%"/>
+      </a>
+      <p>Plataforma de venta de móviles con panel admin e integración de PayPal.</p>
+    </td>
+    <td width="33.3%" valign="top">
+      <a href="https://github.com/vvvalero/taskflow">
+        <img src="https://img.shields.io/badge/TaskFlow-React_%7C_MUI-cyan?style=for-the-badge&logo=react" width="100%"/>
+      </a>
+      <p>Gestor de tareas con Drag & Drop, subtareas y persistencia local.</p>
+    </td>
+    <td width="33.3%" valign="top">
+      <a href="https://github.com/alejo9am/libreria">
+        <img src="https://img.shields.io/badge/Librería_WebApp-Node.js_%7C_MongoDB-green?style=for-the-badge&logo=nodedotjs" width="100%"/>
+      </a>
+      <p>SPA completa con arquitectura cliente-servidor y API REST.</p>
+    </td>
+  </tr>
+</table>
+
+### Estadísticas e Insignias
+
 <p align="center">
-  <a href="https://github.com/vvvalero/Nevom--ComercioElectronico">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvvalero&repo=Nevom--ComercioElectronico&theme=tokyonight&show_icons=true" alt="Nevom Comercio Electrónico" width="32%" />
-  </a>
-  <a href="https://github.com/vvvalero/taskflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vvvalero&repo=taskflow&theme=tokyonight&show_icons=true" alt="Taskflow" width="32%" />
-  </a>
-  <a href="https://github.com/alejo9am/libreria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alejo9am&repo=libreria&theme=tokyonight&show_icons=true" alt="Librería" width="32%" />
+  <img src="https://komarev.com/ghpvc/?username=vvvalero&label=Visitas+al+perfil&color=7aa2f7&style=for-the-badge" alt="Visitas al perfil" />
+  <a href="https://github.com/vvvalero?tab=followers">
+    <img src="https://img.shields.io/github/followers/vvvalero?label=Seguidores&style=for-the-badge&color=bb9af7&logo=github" alt="Seguidores" />
   </a>
 </p>
 
----
+<div align="center">
 
-### Mis Estadísticas en GitHub
+| 📈 Racha de Contribuciones | 🗂️ Resumen de Perfil |
+| :---: | :---: |
+| <img src="https://streak-stats.demolab.com/?user=vvvalero&theme=rose_pine&hide_border=true" width="100%" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvvalero&theme=github_dark" width="100%" /> |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vvvalero&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de vvvalero" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvvalero&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
+</div>
